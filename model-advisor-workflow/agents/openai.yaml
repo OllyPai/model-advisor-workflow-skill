@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Advisor Workflow"
+  short_description: "Read-only model advisor loop"
+  default_prompt: "Set up the read-only advisor workflow in this project."
